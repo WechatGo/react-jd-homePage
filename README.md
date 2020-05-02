@@ -1,5 +1,5 @@
 # React-Demo
-
+### 非原创，用于记录学习
 ### 基于Reactjs && Node 通讯的简单演示
 
 * Reactjs && ES6 && webpack构建移动端京东首页
@@ -12,10 +12,10 @@
 克隆项目
 
 ```
-> $ git clone https://github.com/CanFoo/react.git
+> $ git clone https://github.com/WechatGo/react-jd-homePage.git
 ```
 
-分别进入react目录和server目录下安装依赖包
+分别进入react-jd-homePage目录和server目录下安装依赖包
 
 ```
 > $ npm install
